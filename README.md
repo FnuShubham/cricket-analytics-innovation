@@ -19,3 +19,9 @@ Coaches and team managers could use this tool before selecting players for upcom
 ## Connection to Chapter 7
 
 This idea is currently in the creative phase of innovation. At this stage, the main goal is to identify a useful analytics idea and explain how it could help the organization. The tool has not been developed or tested yet, so it is still an early idea that can be improved through prototyping and feedback.
+
+## Prototype Evaluation
+
+I believe the prototype enhancement should be integrated into the main project because recent match performance gives decision makers more current information about a player's form. This can help coaches compare a player's overall performance with how the player is performing recently.
+
+Feedback from coaches and team managers would be important before making the final decision. I would ask whether recent match performance helps them with player selection and whether the information is easy to understand. Their feedback could also help determine how many recent matches should be included in the tool.
