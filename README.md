@@ -30,3 +30,11 @@ This change could improve decision-making because a player's current form can be
 I believe the prototype enhancement should be integrated into the main project because recent match performance gives decision makers more current information about a player's form. This can help coaches compare a player's overall performance with how the player is performing recently.
 
 Feedback from coaches and team managers would be important before making the final decision. I would ask whether recent match performance helps them with player selection and whether the information is easy to understand. Their feedback could also help determine how many recent matches should be included in the tool.
+
+## Reflection on Innovation and Version Control
+
+Branches support low-risk experimentation because an analytics team can test a new idea without changing the main project. If the idea does not work well, the team can improve it or leave it separate without affecting the original work.
+
+GitHub can also help analytics ideas gain traction with decision makers because it keeps changes, feedback, and different versions of an idea organized in one place. Team members can review what changed and understand why an improvement was made before it becomes part of the main project.
+
+This workflow connects with the innovation framework in Chapter 7 because the idea started in the creative phase, was improved through prototyping, evaluated through engagement, and then integrated into the main project as part of the build phase. GitHub helped manage each step while allowing the idea to improve over time.
