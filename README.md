@@ -20,6 +20,11 @@ Coaches and team managers could use this tool before selecting players for upcom
 
 This idea is currently in the creative phase of innovation. At this stage, the main goal is to identify a useful analytics idea and explain how it could help the organization. The tool has not been developed or tested yet, so it is still an early idea that can be improved through prototyping and feedback.
 
+## Prototype Enhancement
+
+The prototype will add recent match performance to the player performance decision tool. Instead of only looking at overall career statistics, the tool will also show how a player performed in their most recent matches.
+
+This change could improve decision-making because a player's current form can be important when selecting a team. For example, a player may have strong career statistics but may not be performing well recently. Adding recent performance will give coaches and managers more current information when comparing players.
 ## Prototype Evaluation
 
 I believe the prototype enhancement should be integrated into the main project because recent match performance gives decision makers more current information about a player's form. This can help coaches compare a player's overall performance with how the player is performing recently.
